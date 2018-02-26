@@ -6,7 +6,7 @@ import android.content.Intent;
 
 public final class CommonUtilities
 {
-	public static String          SENDER_ID              = "43226793295";
+	public static String          SENDER_ID              = "43226793294";
 	public static String          DISPLAY_MESSAGE_ACTION = "com.netas.DISPLAY_MESSAGE";
 	public static final String    EXTRA_MESSAGE          = "message";
 	public static final String    EXTRA_PARAM            = "param";
